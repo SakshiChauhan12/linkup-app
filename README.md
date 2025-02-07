@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Talk-A-Tive
 
@@ -79,3 +80,6 @@ Start the Client
 - [@Piyush-eon](https://github.com/piyush-eon)
 
   
+=======
+# link_up
+>>>>>>> 4d7ab09af51533975e236254a1242786d8b7edbb
