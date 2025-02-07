@@ -70,14 +70,16 @@ function SideDrawer() {
 
     try {
       setLoading(true);
+      console.log("Searching for:", search);
 
       const config = {
         headers: {
           Authorization: `Bearer ${user.token}`,
         },
       };
-
+      console.log("Sending request to:", `/api/user?search=${search}`);
       const { data } = await axios.get(`/api/user?search=${search}`, config);
+      console.log("Search results:", data);
 
       setLoading(false);
       setSearchResult(data);
