@@ -1,85 +1,28 @@
-<<<<<<< HEAD
+# LinkUp 💬
 
-# Talk-A-Tive
+**LinkUp** is a full-stack real-time chat application built with the MERN stack. It supports one-to-one and group chats with features like authentication, user search, notifications, and typing indicators.
 
-Talk-a-tive is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
-## Tech Stack
+## 🚀 Tech Stack
 
-**Client:** React JS
+**Client:** React.js  
+**Server:** Node.js, Express.js  
+**Database:** MongoDB  
+**Real-time:** Socket.io
 
-**Server:** Node JS, Express JS
+---
 
-**Database:** Mongo DB
-  
-## Demo
+## 🔗 Live Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[LinkUp Live App](https://linkup-app.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-## Run Locally
+---
 
-Clone the project
 
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
 
-Go to the project directory
+## 🛠️ Run Locally
+
+### Clone the project
 
 ```bash
-  cd mern-chat-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open now terminal
-  cd frontend
-  npm start
-```
-
-  
-# Features
-
-### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
-
-- [@Piyush-eon](https://github.com/piyush-eon)
-
-  
-=======
-# link_up
->>>>>>> 4d7ab09af51533975e236254a1242786d8b7edbb
+git clone https://github.com/SakshiChauhan12/linkup-app.git
+cd linkup-app
